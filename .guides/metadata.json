@@ -1,0 +1,201 @@
+{
+ "sections": [
+  {
+   "id": "8f0cc930-b9fa-7cc5-add0-b1b37cbbeb3d",
+   "title": "About Flode",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/About-Flode-8f0c.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "e486164b-5519-6ce0-1fa9-ee9277717a30",
+   "title": "Video overview",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Video-overview-e486.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "750a109b-a4cd-e2a7-3b18-32ab97bca8b8",
+   "title": "Complex Example",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Complex-Example-750a.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "2545f089-db1e-9d10-1928-ea66a2bf688e",
+   "title": "Experiment",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Experiment-2545.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "2d694684-7136-7c9a-c551-11154b4ffaa5",
+   "title": "Editing charts",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Editing-charts-2d69.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "30ba433-cd52-a663-c906-325a75fa1b46",
+   "title": "The 'Operation' block",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The--Operation--block-30ba.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "7bc95de8-ebbe-5979-c8d9-bbdbd15bac8",
+   "title": "The 'Condition' block",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The--Condition--block-7bc9.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "fd0ec36-478d-8d92-d46b-aeecebd896ef",
+   "title": "The 'Hub' block",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The--Hub--block-fd0e.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "e91a6b47-c2a3-518d-ce22-f50b856ff31c",
+   "title": "The 'End' block",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The--End--block-e91a.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "5cd7ee34-abe2-e8a4-fdc1-eeec414bcb3",
+   "title": "The 'Debug' block",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The--Debug--block-5cd7.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "41f38d8-eef5-adb4-1d15-6cd0a960252f",
+   "title": "Adding comments",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Adding-comments-41f3.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "9711b79e-4373-9fee-ded2-563b6ca7717b",
+   "title": "Aligning blocks neatly",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Aligning-blocks-neatly-9711.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "4c92182a-f31d-6b1b-aa7c-46bfcef91874",
+   "title": "Centering and zooming",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Centering-and-zooming-4c92.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "b1b34fb7-7b85-8714-a493-e536f1e57f",
+   "title": "Inputs and Outputs",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Inputs-and-Outputs-b1b3.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "a77d40aa-7320-498a-74f8-26cb4d68bd5c",
+   "title": "Inputs",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Inputs-a77d.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "144b5f4a-3361-b3e5-f888-2bedf236e349",
+   "title": "Outputs",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Outputs-144b.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "b34797db-536c-8a2f-5125-21eaa4dfdb26",
+   "title": "Executing & Debugging",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Executing---Debugging-b347.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "8bc4cd3e-4b17-c659-a4e6-f5653cc3b14d",
+   "title": "Console and Variables",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Console-and-Variables-8bc4.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "d77e1ecf-123b-ffd4-ea1b-3ffb604279f6",
+   "title": "Errors & warnings",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Errors-in-your-chart-d77e.md",
+   "chapter": false,
+   "reset": []
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
