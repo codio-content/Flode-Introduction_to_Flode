@@ -25,7 +25,7 @@ To pan around the chart, click and drag anywhere on the chart background.
 You can select multiple blocks in either of these ways
 
 - Press the shift key and then start dragging the mouse. All completely surounded blocks will be selectd when you release the mouse.
-- Click on one block, then press the Ctrl (Mac Cmd)key and click of additional blocks.
+- Click on one block, then press the Ctrl (Mac Cmd) key and click on additional blocks.
 
 To deselect blocks, click on the background.
 

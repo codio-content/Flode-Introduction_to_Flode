@@ -2,7 +2,7 @@ The Condition block is used to manage conditional behavior. This is all explaine
 
 ![](.guides/img/decision.png)
 
-Double click to enter a condition. You can include boolean operators such as 'and' and 'or'.
+Double click to enter a condition. You can include logical operators such as 'and' and 'or'.
 
 The image below shows 2 conditions in a chart.
 
@@ -12,8 +12,8 @@ The image below shows 2 conditions in a chart.
 ## Advanced
 Flode uses Javascript as its engine, so you can write a Javascript expressions if you like. However, most users will want a simpler alternative. Here are the alternatives we support
 
-- `=` is fine as well as `==`
-- `!=` is fine as well as `!=`
+- `=` is fine as well as `==` and `===`
+- `!=` is fine as well as `!==`
 - `and` is fine as well as `&&`
 - `or` is fine as well as `||`
 

@@ -1,6 +1,12 @@
-[Click here](open_file play.flode) to open a Flode chart that you can play with to get used to Flode. 
 
-Make sure you can do the thing listed below. There is a video below these points which shows them quickly.
+
+Make sure you can do the thing listed below.
+
+<div class="video">
+<div class="video-wrapper">
+<iframe src="//player.vimeo.com/video/136915937" width="600" height="370" frameborder="0" webkitallowfullscreen mozallowflscreen allowfullscreen></iframe>
+</div>
+</div>
 
 ## Dragging in blocks
 Drag from the top toolbar into the chart.
@@ -24,6 +30,10 @@ Zoom controls are in the toolbar or using the mouse wheel if you have one
 ## Aligning blocks
 - Multi select the blocks to align
 - Right click and select one of the alignment options
+
+## Undo & Redo
+- Undo Ctrl+Z (PC) Cmd+Z (Mac)
+- Redo Shift+Ctrl+Z (PC) Shift+Cmd+Z (Mac)
 
 ## Adding comments
 - Click on a block then press the speech bubble icon to add a comment.

@@ -1,4 +1,4 @@
-This complex example shows you the sort of thing you can do with Flode at the complex end of the scale.
+The video on this page is intended only to show that you can build really complex charts when you get more advanced. Beginners can skip over this video.
 
 This is a Flode implementation of the *Quicksort* algorithm. View it in full screen once the video is running.
 

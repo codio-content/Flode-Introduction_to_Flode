@@ -4,7 +4,7 @@ An Input block should be used for challenges that tell you they will be passing 
 
 - For each value you expect to receive, use a single Input block.
 - You can see the input values in the variable list. This is explained in the 'Console & Variables' section.
-- You can enter test data into each Input block by doube-clicking.
+- You can enter test data into each Input block by double-clicking.
 - Each Input block gets an automatically assigned variable name, `input0`, `input1`, `input2` etc.
 
 ## Test data
@@ -26,14 +26,14 @@ Here is how you would represent this in Flode (we are also outputting the result
 ## Example 2
 Here's another example that requires 2 inputs.
 
-> We will pass you person's name and their age. You should output a single string that says 'Hello [person's name], you are [age]'.
+> We will pass a person's name and their age. You should output a single string that says 'Hello [person's name], you are [age]'.
 
 If you look at the chart below, you can see how this chart expects 2 inputs. The first input gets the variable name `input0` and the second one `input1`. 
 
 ![](.guides/img/input-exp2.png)
 
 ## Example 3
-The final example (we will explain what an array is in a later Unit) shows you you would process 2 array input. The first is an array of numbers, the second an array of strings.
+The final example (we will explain what an array is in a later Unit) shows how you would process 2 array input. The first is an array of numbers, the second an array of strings.
 
 ![](.guides/img/input-exp3.png)
 

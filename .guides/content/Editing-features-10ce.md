@@ -1,0 +1,1 @@
+The following pages explain the main features you need for editing a chart.
