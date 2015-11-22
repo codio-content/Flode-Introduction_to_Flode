@@ -9,7 +9,7 @@ Flode lets you run your chart as a program. There are 3 buttons for controlling 
 ## Console and Variables
 When you enter Run or Step modes, you will be shown the Console and Variables windows at the bottom of the screen. These, together with Step mode especially, are very useful for exactly following the behavior of your chart at your own speed.
 
-To hide (and show) this window, press the Console button.
+To hide (and show) this window, press the Console button.  You can resize the console and variables by dragging the separator up or down.
 
 ![](.guides/img/console.png)
 
